@@ -1,0 +1,9 @@
+1.B?z?n  layih? uz?rind? isl?y?nd? eyni kodu ?rinm?d?n birnec? d?f? yaz?r?q.Object oriented programming
+is? odurki kodlarimizi sinifl?r s?klind? yaz?b daha elverisli s?kl? g?tiririk.OOP umumiyy?tl? kod parcalar? il? ?laq? yaratmaga kom?k edir.
+
+2.Procedural programming bir proqramlasdirma texnikasidir.Herhansi bir prosedur ozu v?ya diger prosedurlar t?r?find?n d? daxil olmaq uz?r? bir proqram?n
+gedisat? s?ras?nda cag?r?la v? istifad? edil? bil?r.
+3.php class  d?yis?nl?rl? isl?y?n d?yis?nl?r v? funksiyalar toplusudur. 
+4.php object  xass?l?r coxluguna malikdir: internet-unvan, olcu, simvol kodlasd?r?lmas? v? s. B?zi xass?l?rini d?yis? bil?rsiniz,
+ b?zil?rini is? yox. O, h?mcinin metodlar coxluguna da malikdir: Web browser p?nc?r?sind? gost?rm?k, disk uz?rind? saxlamaq, cap etm?k v? s
+5.konstruktorlar klasslarin funksiyalaridir hansiki  yeni eksemplyar klass yaradildigi zaman cagirilirlar.
